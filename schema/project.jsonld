@@ -2,7 +2,7 @@
   "@context": {
     "sec":"https://w3id.org/security/v1",
     "so":"http://schema.org/",
-    "ixo":"https://ixo-network.github.io/schema/",
+    "ixo":"https://ixo-network.github.io/schema/"
   },
   "@id":"",
   "@type": "Project",
