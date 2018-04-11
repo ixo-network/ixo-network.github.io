@@ -13,7 +13,7 @@
   "evaluationPayout":"so:quantitativeValue",
   "evaluationPayoutInterval":"so:quantitativeValue",
   "evaluationAgentRequiresApproval":"so:boolean",
-  "serviceAgentRequiresApproval":so:boolean",
+  "serviceAgentRequiresApproval":"so:boolean",
   "agentTemplate":"ixo:template",
   "claimTemplate":"ixo:template",
   "evaluationTemplate":"ixo:template",
