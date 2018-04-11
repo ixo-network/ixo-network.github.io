@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "sec":"https://w3id.org/security/v1",
+    "so":"http://schema.org/",
+    "ixo":"https://ixo-network.github.io/schema/",
+  },
+  "@id":"",
+  "@type": "Project",
+  "name":"so:name",
+  "country":"so:country",
+  "about":"so:about",
+  "info":"so:url",
+  "requiredPOICount":"so:quantitativeValue",
+  "evaluationPayout":"so:quantitativeValue",
+  "evaluationPayoutInterval":"so:quantitativeValue",
+  "evaluationAgentRequiresApproval":"so:boolean",
+  "serviceAgentRequiresApproval":so:boolean",
+  "agentTemplate":"ixo:template",
+  "claimTemplate":"ixo:template",
+  "evaluationTemplate":"ixo:template",
+  "sdgs":"so:text"
+}
